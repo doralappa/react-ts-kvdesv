@@ -1,3 +1,3 @@
-# react-ts-kvdesv
+# yeatapp
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-kvdesv)
